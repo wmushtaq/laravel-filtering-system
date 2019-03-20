@@ -21,9 +21,10 @@
   <body class="bg-light">
 
     <div class="container">
+    <div class="alert alert-info text-center"><i class="fas fa-info-circle"></i> Laravel Modular Filtering Demo - Created by <a href="https://www.upwork.com/fl/waqasmushtaq2">Waqas Mushtaq</a> - Source code available on <a href="https://github.com/wmushtaq/laravel-filtering-system">GitHub</a></div>
       <div class="py-5 text-center">
         <a href="/" class="text-dark"><p><i class="fas fa-search fa-9x"></i></p></a>
-        <h2>Modular Filtering System</h2>
+        <h2>Modular Filtering Demo</h2>
         <p class="lead">A robust filtering system created in Laravel. Instead of using conditional statements and repetitive code, it uses modules for filtering and sorting which results in having a scalable application and clean code.</p>
       </div>
 
