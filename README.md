@@ -16,3 +16,7 @@ That's it.
 ## Demo
 
 > http://larafilters.wmushtaq.me/
+
+## Developer
+
+[Waqas Mushtaq](https://www.upwork.com/fl/waqasmushtaq2)
