@@ -11,7 +11,7 @@ A robust filtering system created in Laravel. Instead of using conditional state
 
 4. Run "php artisan migrate --seed" command.
 
-Thats it.
+That's it.
 
 ## Demo
 
